@@ -1,0 +1,48 @@
+.header {
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+  background-color: #1a3e61;
+}
+
+.menu {
+  line-height: 64px;
+  text-align: center;
+  background-color: #1a3e61;
+}
+
+.menu-sub {
+  font-size: 32px !important;
+  margin: 0 !important;
+  vertical-align: middle;
+}
+
+.ant-menu-item {
+  font-size: 18px !important;
+  font-weight: bold;
+}
+
+.ant-menu-submenu-title {
+  padding: 0;
+}
+
+.menu-account {
+  background-color: #ffce51;
+  color: #1a3e61;
+  font-weight: bold;
+  border-radius: 50px;
+  padding: 0 32px;
+  vertical-align: middle;
+  margin-left: 8px;
+}
+
+.menu-account-small {
+  background-color: #ffce51;
+  color: #1a3e61;
+  font-weight: bold;
+  border-radius: 50px;
+  padding: 0 32px;
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+}
